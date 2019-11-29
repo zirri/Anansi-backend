@@ -1,0 +1,32 @@
+[
+  {
+    "userId": 90001,
+    "favoriteBooks": [
+      10001,
+      10004,
+      10005
+    ],
+    "readBooks": [
+      10002,
+      10006
+    ],
+    "rejectedBooks": [
+      10003,
+      10007,
+      10007
+    ]
+  },
+  {
+    "userId": 90002,
+    "favoriteBooks": [
+      10006
+    ],
+    "readBooks": [
+      10007,
+      10001
+    ],
+    "rejectedBooks": [
+      10008
+    ]
+  }
+]

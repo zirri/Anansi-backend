@@ -1,0 +1,49 @@
+[{
+    "bookId": 10001,
+    "name": "1Q84",
+    "author": "Haruki Murakami",
+    "synopsis": "A young woman named Aomame follows a taxi driver’s enigmatic suggestion and begins to notice puzzling discrepancies in the world around her. She has entered, she realizes, a parallel existence, which she calls 1Q84 —“Q is for ‘question mark.’ A world that bears a question.",
+    "imgsrc": "../img/Book-cover-1Q84.PNG"
+}, {
+    "bookId": 10002,
+    "name": "1984",
+    "author": "George Orwell",
+    "synopsis": "In the year 1984, civilisation has been damaged by war, civil conflict, and revolution. Airstrip One (formerly Britain) is a province of Oceania, one of the three totalitarian super-states that rule the world. It is ruled by the Party under the ideology of Ingsoc and the mysterious leader Big Brother, who has an intense cult of personality. The Party stamps out anyone who does not fully conform to their regime using the Thought Police and constant surveillance through devices such as Telescreens (two-way televisions). Winston Smith is a member of the middle class Outer Party, working at the Ministry of Truth, where he rewrites historical records to conform to the state's ever-changing version of history.",
+    "imgsrc": "../img/book-cover-1984.jpg"
+}, {
+    "bookId": 10003,
+    "name": "Killing Commendatore",
+    "author": "Haruki Murakami",
+    "synopsis": "A thirty-something portrait painter in Tokyo is abandoned by his wife and finds himself holed up in the mountain home of a famous artist, Tomohiko Amada. When he discovers a previously unseen painting in the attic, he unintentionally opens a circle of mysterious circumstances. To close it, he must complete a journey that involves a mysterious ringing bell, a two-foot-high physical manifestation of an Idea, a dapper businessman who lives across the valley, a precocious thirteen-year-old girl, a Nazi assassination attempt during World War II in Vienna, a pit in the woods behind the artist’s home, and an underworld haunted by Double Metaphors.",
+    "imgsrc": "../img/book-cover-killing-commendatore.jpg"
+}, {
+    "bookId": 10004,
+    "name": "Stoner",
+    "author": "John Williams",
+    "synopsis": "William Stoner is born at the end of the nineteenth century into a dirt-poor Missouri farming family. Sent to the state university to study agronomy, he instead falls in love with English literature and embraces a scholar’s life, so different from the hardscrabble existence he has known. And yet as the years pass, Stoner encounters a succession of disappointments: marriage into a “proper” family estranges him from his parents; his career is stymied; his wife and daughter turn coldly away from him; a transforming experience of new love ends under threat of scandal. Driven ever deeper within himself, Stoner rediscovers the stoic silence of his forebears and confronts an essential solitude.",
+    "imgsrc": "../img/book-cover-stoner.jpg"
+}, {
+    "bookId": 10005,
+    "name": "The Master and Margarita",
+    "author": "Mikhail Bulgakov",
+    "synopsis": "One hot spring, the devil arrives in Moscow, accompanied by a retinue that includes a beautiful naked witch and an immense talking black cat with a fondness for chess and vodka. The visitors quickly wreak havoc in a city that refuses to believe in either God or Satan. But they also bring peace to two unhappy Muscovites: one is the Master, a writer pilloried for daring to write a novel about Christ and Pontius Pilate; the other is Margarita, who loves the Master so deeply that she is willing literally to go to hell for him.",
+    "imgsrc": "../img/book-cover-the master-and-margarita.jpg"
+}, {
+    "bookId": 10006,
+    "name": "The Captain's Daughter",
+    "author": "Alexander Pushkin",
+    "synopsis": "During the reign of Catherine the Great, the young Grinev sets out for his new career in the army and en route performs an act of kindness by giving his warm coat to a man freezing in a blizzard. This action reaps its reward when he subsequently finds himself caught up in the rebellion headed by the infamous, and strangely familiar, Pugachev. Rivalry with a fellow officer for the affections of Captain Mironov's daughter further complicates Grinev's affairs, and ultimately it is only an appeal by Masha Mironova, the eponymous captain's daughter, to the Empress herself that can unravel a tangled web.",
+    "imgsrc": "../img/book-cover-the-captains-daughter.jpg"
+}, {
+    "bookId": 10007,
+    "name": "The Sellout",
+    "author": "Paul Beatty",
+    "synopsis": "A biting satire about a young man's isolated upbringing and the race trial that sends him to the Supreme Court, Paul Beatty's The Sellout showcases a comic genius at the top of his game. It challenges the sacred tenets of the United States Constitution, urban life, the civil rights movement, the father-son relationship, and the holy grail of racial equality―the black Chinese restaurant.",
+    "imgsrc": "../img/book-cover-the-sellout.jpg"
+}, {
+    "bookId": 10008,
+    "name": "Two Years, Eight Months and Twenty-Eight Nights",
+    "author": "Salman Rushdie",
+    "synopsis": "From one of the greatest writers of our time: the most spellbinding, entertaining, wildly imaginative novel of his great career, which blends history and myth with tremendous philosophical depth. A masterful, mesmerizing modern tale about worlds dangerously colliding, the monsters that are unleashed when reason recedes, and a beautiful testament to the power of love and humanity in chaotic times.",
+    "imgsrc": "../img/book-cover-two-years-eight-month.jpg"
+}]
